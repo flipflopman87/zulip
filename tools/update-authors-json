@@ -73,6 +73,9 @@ def run_production() -> None:
         'mobile': 'https://api.github.com/repos/zulip/zulip-mobile/stats/contributors',
         'python-zulip-api': 'https://api.github.com/repos/zulip/python-zulip-api/stats/contributors',
         'zulip-js': 'https://api.github.com/repos/zulip/zulip-js/stats/contributors',
+        'zulip-csharp': 'https://api.github.com/repos/zulip/zulip-csharp/stats/contributors',
+        'swift-zulip-api': 'https://api.github.com/repos/zulip/swift-zulip-api/stats/contributors',
+        'docker-zulip': 'https://api.github.com/repos/zulip/docker-zulip/stats/contributors',
         'zulipbot': 'https://api.github.com/repos/zulip/zulipbot/stats/contributors',
         'terminal': 'https://api.github.com/repos/zulip/zulip-terminal/stats/contributors',
     }
